@@ -1,7 +1,7 @@
 // 1. Basic Types
 let message: string = "Hello, TypeScript!";
-let isActive: boolean = true;
-let age: number = 25;
+let isActive: boolean = false;
+let age: number = 28;
 let numbers: number[] = [1, 2, 3, 4, 5];
 
 // 2. Function with Types
